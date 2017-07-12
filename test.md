@@ -8,19 +8,15 @@ This specification is a reference document. With +500000 characters written by s
 
 Another resource for information is the [VSCP wiki](ttp://www.vscp.org/wiki/doku.php\) it holds a lot of useful information and howto's. 
 
+*  The VSCP Daemon is documented [here](http://www.vscp.org/docs/vscpd/doku.php).
 
 
 
-
-\*  The VSCP Daemon is documented [here](http://www.vscp.org/docs/vscpd/doku.php).
-
-
-
-\*  The helper library is documented \[here\]\(http://www.vscp.org/docs/vscphelper/doku.php\)
+*  The helper library is documented \[here\]\(http://www.vscp.org/docs/vscphelper/doku.php\)
 
 
 
-\*  The VSCP Works is documented \[here\]\(http://www.vscp.org/docs/vscpworks/doku.php\).
+*  The VSCP Works is documented \[here\]\(http://www.vscp.org/docs/vscpworks/doku.php\).
 
 
 
